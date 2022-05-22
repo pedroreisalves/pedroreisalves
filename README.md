@@ -51,3 +51,5 @@ const pedro = {
     <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronr03&layout=compact&theme=dark" />
   </a>
 </div>
+
+<br />
