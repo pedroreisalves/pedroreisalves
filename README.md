@@ -14,8 +14,6 @@ const pedro = {
 };
 ```
 
-<br />
-
 <div align="center">
   <h2>My Projects</h2>
   <table>
@@ -39,8 +37,6 @@ const pedro = {
     </tr>
   </table> 
 </div>
-
-<br />
 
 <div align="center">
   <h2>Github Stats 🏆</h2>
