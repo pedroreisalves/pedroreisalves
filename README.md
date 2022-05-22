@@ -1,7 +1,5 @@
 <h1 align="center">Hi, my name is Pedro and I'm a front-end developer. 👨‍💻</h1>
 
-<br />
-
 ```JavaScript
 const pedro = {
   name: 'Pedro Reis',
@@ -18,7 +16,6 @@ const pedro = {
 
 <div align="center">
   <h2>My Projects</h2>
-  <br />
   <table>
     <tr>
       <td valign="top" width="50%">
@@ -38,19 +35,17 @@ const pedro = {
         <p><em><strong>Description:</strong> A list of pokemons and their attributes.</p>
       </td>
     </tr>
-  </table>
-  <br />
-  
+  </table> 
 </div>
+
+<br />
 
 <div align="center">
   <h2>Github Stats 🏆</h2>
-  <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=pedronr03&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronr03&layout=compact&theme=dark" />
   </a>
-  <br />
 </div>
