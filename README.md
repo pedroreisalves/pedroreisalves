@@ -28,7 +28,7 @@ const pedro = {
       </td>
       <td valign="top" width="50%">
         <h2 align="center"><a href="https://github.com/pedronr03/project-pokedex">Project Pokedex</a></h2>
-        <a href="https://github.com/pedronr03/project-pokedex"><img width="100%" src="./images/pokedex" alt="Project-preview" /></a>
+        <a href="https://github.com/pedronr03/project-pokedex"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
         <br>
         <br>
         <p><em><strong>Tools/Methodologies:</strong> React (class components), Redux, React Router v5, HTML, CSS, JavaScript</em></p>
