@@ -25,7 +25,7 @@ const pedro = {
         <a href="https://github.com/pedronr03/project-my-wallet"><img width="100%" src="./images/my-wallet.png" alt="Project-preview" /></a>
         <br>
         <br>
-        <p><em><strong>Tools/Methodologies:</strong> React (class components), Redux, React Router v5, HTML, CSS, JavaScript</em></p>
+        <p><em><strong>Tools/Methodologies:</strong> React (class components), Redux, React Router v5, HTML, CSS, JavaScript, React Testing Library</em></p>
         <p><em><strong>Description:</strong> A virtual wallet where you store information about your expenses.</p>
       </td>
       <td valign="top" width="50%">
