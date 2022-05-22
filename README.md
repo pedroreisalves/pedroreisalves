@@ -1,5 +1,3 @@
-<br />
-
 <h1 align="center">Hi, my name is Pedro and I'm a front-end developer. 👨‍💻</h1>
 
 ```JavaScript
