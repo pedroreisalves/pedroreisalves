@@ -6,13 +6,12 @@
 const pedro = {
   name: 'Pedro Reis',
   nationality: 'brazilian, 🇧🇷',
+  aboutMe: "I'm 18 years old, currently I'm a Frontend Developer. Passionate about technology and software development and enthusiast about Cyber Security and UI/UX design.",
   knowledge: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
   softSkills: ['creativity', 'communication', 'resilience', 'organization', 'proactivity'],
   linkedin: 'https://www.linkedin.com/in/pedroreisalves/',
 };
 ```
-
-<p>I'm 18 years old, currently I'm a Frontend Developer. Passionate about technology and software development and enthusiast about Cyber Security and UI/UX design.</p>
 
 <br />
 
