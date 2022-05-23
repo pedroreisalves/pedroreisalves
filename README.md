@@ -18,7 +18,7 @@ const pedro = {
   <h2>My Projects</h2>
   <table>
     <tr>
-      <td valign="top" width="50%">
+      <td align="left" valign="top" width="50%">
         <h2 align="center"><a href="https://github.com/pedronr03/project-my-wallet">My Wallet</a></h2>
         <a href="https://github.com/pedronr03/project-my-wallet"><img width="100%" src="./images/my-wallet.png" alt="Project-preview" /></a>
         <br>
@@ -26,7 +26,7 @@ const pedro = {
         <p><em><strong>Tools/Methodologies:</strong> React (class components), Redux, React Router v5, HTML, CSS, JavaScript, React Testing Library.</em></p>
         <p><em><strong>Description:</strong> A virtual wallet where you store information about your expenses.</p>
       </td>
-      <td valign="top" width="50%">
+      <td align="left" valign="top" width="50%">
         <h2 align="center"><a href="https://github.com/pedronr03/project-pokedex">Project Pokedex</a></h2>
         <a href="https://github.com/pedronr03/project-pokedex"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
         <br>
