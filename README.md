@@ -38,7 +38,7 @@ const pedro = {
     <tr>
       <td align="left" valign="top" width="50%">
         <h2 align="center"><a href="https://github.com/pedronr03/project-solar-system">Project Solar System</a></h2>
-        <a href="https://github.com/pedronr03/project-my-wallet"><img width="100%" src="./images/solar-system.png" alt="Project-preview" /></a>
+        <a href="https://github.com/pedronr03/project-solar-system"><img width="100%" src="./images/solar-system.png" alt="Project-preview" /></a>
         <br>
         <br>
         <p><em><strong>Tools/Methodologies:</strong></em> React (class components), HTML, CSS, JavaScript, React Testing Library.</p>
