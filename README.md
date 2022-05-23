@@ -23,16 +23,16 @@ const pedro = {
         <a href="https://github.com/pedronr03/project-my-wallet"><img width="100%" src="./images/my-wallet.png" alt="Project-preview" /></a>
         <br>
         <br>
-        <p><em><strong>Tools/Methodologies:</strong> React (class components), Redux, React Router v5, HTML, CSS, JavaScript, React Testing Library.</em></p>
-        <p><em><strong>Description:</strong> A virtual wallet where you store informations about your expenses.</p>
+        <p><em><strong>Tools/Methodologies:</strong></em> React (class components), Redux, React Router v5, HTML, CSS, JavaScript, React Testing Library.</p>
+        <p><em><strong>Description:</strong></em> A virtual wallet where you store informations about your expenses.</p>
       </td>
       <td align="left" valign="top" width="50%">
         <h2 align="center"><a href="https://github.com/pedronr03/project-pokedex">Project Pokedex</a></h2>
         <a href="https://github.com/pedronr03/project-pokedex"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
         <br>
         <br>
-        <p><em><strong>Tools/Methodologies:</strong> React (class components), Redux, React Router v5, HTML, CSS, JavaScript.</em></p>
-        <p><em><strong>Description:</strong> A list of pokemons and their attributes.</p>
+        <p><em><strong>Tools/Methodologies:</strong></em> React (class components), Redux, React Router v5, HTML, CSS, JavaScript.</p>
+        <p><em><strong>Description:</strong></em> A list of pokemons and their attributes.</p>
       </td>
     </tr>
     <tr>
@@ -41,8 +41,8 @@ const pedro = {
         <a href="https://github.com/pedronr03/project-my-wallet"><img width="100%" src="./images/solar-system.png" alt="Project-preview" /></a>
         <br>
         <br>
-        <p><em><strong>Tools/Methodologies:</strong> React (class components), HTML, CSS, JavaScript, React Testing Library.</em></p>
-        <p><em><strong>Description:</strong> An application that shows informations about space travel and images of planets.</p>
+        <p><em><strong>Tools/Methodologies:</strong></em> React (class components), HTML, CSS, JavaScript, React Testing Library.</p>
+        <p><em><strong>Description:</strong></em> An application that shows informations about space travel and images of planets.</p>
       </td>
     </tr>
   </table> 
