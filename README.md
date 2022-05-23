@@ -19,7 +19,7 @@ const pedro = {
   <table>
     <tr>
       <td align="left" valign="top" width="50%">
-        <h2 align="center"><a href="https://github.com/pedronr03/project-my-wallet">My Wallet</a></h2>
+        <h2 align="center"><a href="https://github.com/pedronr03/project-my-wallet">Project My Wallet</a></h2>
         <a href="https://github.com/pedronr03/project-my-wallet"><img width="100%" src="./images/my-wallet.png" alt="Project-preview" /></a>
         <br>
         <br>
