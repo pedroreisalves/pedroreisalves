@@ -44,6 +44,14 @@ const pedro = {
         <p><em><strong>Tools/Methodologies:</strong></em> React (class components), HTML, CSS, JavaScript, React Testing Library.</p>
         <p><em><strong>Description:</strong></em> An application that shows informations about space travel and images of planets.</p>
       </td>
+      <td align="left" valign="top" width="50%">
+        <h2 align="center"><a href="https://github.com/pedronr03/project-app-tunes">Project App Tunes</a></h2>
+        <a href="https://github.com/pedronr03/project-app-tunes"><img width="100%" src="./images/project-app-tunes.png" alt="Project-preview" /></a>
+        <br>
+        <br>
+        <p><em><strong>Tools/Methodologies:</strong></em> React (class components), React Router v5, HTML, CSS, JavaScript.</p>
+        <p><em><strong>Description:</strong></em> An application that shows albums, songs, artists, and can also create a user, change profile picture, description and select favorite songs. </p>
+      </td>
     </tr>
   </table> 
 </div>
