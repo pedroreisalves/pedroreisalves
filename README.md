@@ -31,7 +31,7 @@ const pedro = {
         <a href="https://github.com/pedronr03/project-pokedex"><img width="100%" src="./images/pokedex.png" alt="Project-preview" /></a>
         <br>
         <br>
-        <p><em><strong>Tools/Methodologies:</strong></em> React (class components), Redux, React Router v5, HTML, CSS, JavaScript.</p>
+        <p><em><strong>Tools/Methodologies:</strong></em> React (class components), Redux, React Router v5, HTML, CSS, JavaScript, Responsive CSS.</p>
         <p><em><strong>Description:</strong></em> A list of pokemons and their attributes.</p>
       </td>
     </tr>
