@@ -8,8 +8,8 @@ const pedro = {
   nationality: 'brazilian',
   aboutMe: "I'm 18 years old, currently I'm a Frontend Developer. Passionate about technology and
   software development and enthusiast about Cyber Security and UI/UX design.",
-  knowledge: ['HTML', 'CSS', 'JavaScript ES6+', 'Jest', 'Sass', 'React', 'Redux', 'React Testing Library',
-  'ContextAPI', 'Hooks'],
+  knowledge: ['HTML', 'CSS', 'JavaScript ES6+', 'TypeScript', 'Jest', 'Sass', 'React.js', 'Next.js', 'Styled Components',
+  'Redux', 'React Testing Library', 'ContextAPI', 'Hooks'],
   softSkills: ['creativity', 'communication', 'resilience', 'organization', 'proactivity'],
   linkedin: 'https://www.linkedin.com/in/pedroreisalves/',
 };
