@@ -1,8 +1,5 @@
 <br />
 
-<h1 align="center">Olá, me chamo Pedro Reis. 👨‍💻</h1>
-<br />
-
 <div align="center">
   <h2>Github Stats 🏆</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
