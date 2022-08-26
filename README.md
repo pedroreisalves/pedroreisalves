@@ -12,8 +12,8 @@
     <img height="40px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
     <img height="40px" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    <img height="40px" src="https://testing-library.com/img/octopus-64x64.png" />
     <img height="40px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+    <img height="40px" src="https://testing-library.com/img/octopus-64x64.png" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
