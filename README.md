@@ -8,7 +8,7 @@
     <img height="40px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
     <img height="40px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img height="40px" src="https://www.styled-components.com/atom.png" />
+    <img height="40px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
     <img height="40px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
     <img height="40px" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
