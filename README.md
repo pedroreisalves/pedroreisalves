@@ -31,6 +31,7 @@
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
     <img height="40px" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+    <img height="43px" src="https://typegraphql.com/img/logo.png" />
   </div>
 </div>
 </br>
