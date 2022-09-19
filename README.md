@@ -4,6 +4,8 @@
     <h2>Tecnologias 👨‍💻</h2>
   </div>
   <div>
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <img height="40px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
     <img height="40px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
     <img height="40px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
@@ -16,12 +18,10 @@
     <img height="40px" src="https://testing-library.com/img/octopus-64x64.png" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </div>
   </br>
   <div>
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
