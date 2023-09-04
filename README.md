@@ -25,8 +25,6 @@ _I am a Fullstack Developer with a passion for developing web and tech that make
   <img width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/ExpressJS-Dark.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GraphQL-Dark.svg" />
   <img width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NestJS-Dark.svg" />
-  <img width="32px" src="https://user-images.githubusercontent.com/94744748/179084180-f782438f-f5ef-41f7-829c-8b1abc092891.svg" />
-  <img width="32px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" />
 </div>
 <br />
 <!--START_SECTION:waka-->
